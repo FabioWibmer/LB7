@@ -20,7 +20,9 @@ Global
 		{FACA6159-C8B5-4840-B038-0D06AD4F57A9}.Release|x64.ActiveCfg = Release|x64
 		{FACA6159-C8B5-4840-B038-0D06AD4F57A9}.Release|x64.Build.0 = Release|x64
 		{FACA6159-C8B5-4840-B038-0D06AD4F57A9}.Release|x86.ActiveCfg = Release|Win32
-		{FACA6159-C8B5-4840-B038-0D06AD4F57A9}.Release|x86.Build.0 = Release|Win32
+		FACITE
+		HI
+		
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
